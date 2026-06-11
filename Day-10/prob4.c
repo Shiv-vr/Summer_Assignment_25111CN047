@@ -5,7 +5,7 @@ int main()
     int s = 1; 
     int space =  5 - 1;
         
-    for(int i = 0; i < 5 ; i++){ 
+    for(int i = 0; i < 10 ; i++){ 
             
             
             for(int j = 1; j <= space; j++){ 
